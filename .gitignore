@@ -1,0 +1,8 @@
+.env
+.cache/
+.npm/
+.codeoss/
+.vscode/
+*.log
+__pycache__/
+*.pyc
